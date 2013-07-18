@@ -1,7 +1,7 @@
 cc2dx-learning
 ==============
 
-### === START ===
+### START
 
 [为何选择cocos2dx跨平台制作网络游戏的考虑](http://www.w3c.com.cn/cocos2d-x-%E6%8E%A2%E8%AE%A8%E8%B7%A8%E5%B9%B3%E5%8F%B0%E5%88%B6%E4%BD%9C%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E7%9A%84%E4%B8%80%E4%BA%9B%E7%96%91%E9%97%AE)
 
@@ -11,7 +11,7 @@ cc2dx-learning
 
 [基于cocos2d-x引擎的游戏框架设计](http://www.programmer.com.cn/10845)
 
-### === NETWORK ===
+### NETWORK
 
 [libcurl实现断点续传](http://www.cnblogs.com/chang290/archive/2012/08/12/2634858.html)
 
@@ -23,7 +23,7 @@ cc2dx-learning
 
 [开源模块](https://github.com/dualface/cocos2d-x-extensions)
 
-### === JSB ===
+### JSB
 
 [cocos2dx从c++到js](https://www.google.com.hk/search?safe=strict&domains=www.w3c.com.cn&hl=zh-CN&q=cocos2d-x%E4%BB%8Ec%2B%2B%E5%88%B0js+site%3Awww.w3c.com.cn&oq=cocos2d-x%E4%BB%8Ec%2B%2B%E5%88%B0js+site%3Awww.w3c.com.cn)
 
@@ -37,6 +37,10 @@ cc2dx-learning
 
 [jsb - bind custom type](http://cocos2d.cocoachina.com/bbs/forum.php?mod=viewthread&tid=10258&extra=page%3D1)
 
-### === Optimizing  ===
+### Optimizing
 
 [iOS和android游戏纹理优化和内存优化](http://blog.csdn.net/langresser/article/details/8426708)
+
+### IOS
+
+[Simple iPhone Keychain Access](http://useyourloaf.com/blog/2010/03/29/simple-iphone-keychain-access.html)
