@@ -36,3 +36,7 @@ cc2dx-learning
 [jsb - bind sqlite](http://cocos2d.cocoachina.com/bbs/forum.php?mod=viewthread&tid=10248&extra=page%3D1)
 
 [jsb - bind custom type](http://cocos2d.cocoachina.com/bbs/forum.php?mod=viewthread&tid=10258&extra=page%3D1)
+
+### === Optimizing  ===
+
+[iOS和android游戏纹理优化和内存优化](http://blog.csdn.net/langresser/article/details/8426708)
