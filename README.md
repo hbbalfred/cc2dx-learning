@@ -26,6 +26,7 @@ cc2dx-learning
 * RESOLUTION
 
     [Cocos2d-x 多分辨率适配完全解析](http://www.ityran.com/archives/4809)
+    
     [Cocos2d-x 屏幕适配新解](http://www.ityran.com/archives/4018)
 
 * COCOSBUILDER
