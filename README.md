@@ -48,6 +48,8 @@ cc2dx-learning
     [jsb - bind sqlite](http://cocos2d.cocoachina.com/bbs/forum.php?mod=viewthread&tid=10248&extra=page%3D1)
 
     [jsb - bind custom type](http://cocos2d.cocoachina.com/bbs/forum.php?mod=viewthread&tid=10258&extra=page%3D1)
+    
+    [cocos2d-x jsb中该如何传递json对象](http://t.cn/z89EMG5 )
 
 * Optimizing
 
